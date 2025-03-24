@@ -1,0 +1,28 @@
+stylesheet.css
+
+body{
+	font-family:ariel,san-serif;
+	background-color: rgba(0, 0, 0, 1.0);
+	display: inline-flex;
+
+}
+
+.card{
+	color:hotpink;
+	padding:20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px;
+	text-align: centre;
+
+}
+
+.button{
+	display: inline-block;
+	padding:20px 10px;
+	color: blue;
+	border-radius: 5px;
+}
+
+.button:hover{
+	color:lightgray;
+}
